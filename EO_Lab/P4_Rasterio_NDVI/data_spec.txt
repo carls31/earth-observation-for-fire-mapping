@@ -1,0 +1,13 @@
+Name: planet.tiff
+Description: multispectral satellite imagery (PlanetScope)
+Bands: 1=blue,2=green,3=red,4= near-infrared
+Pixel resolution: 10m (downsampled from the original 4m resolution)
+Area: North of Milan
+Scope: Analytics
+
+Name: planet_rgb.tiff
+Description: RGB composite image (PlanetScope)
+Bands: 1=Red,2=Green,3=Blue
+Pixel resolution: 10m (downsampled from the original 4m resolution)
+Area: North of Milan
+Scope: Visualization
