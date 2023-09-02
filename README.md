@@ -1,9 +1,9 @@
 # EO Fire Mapping
 **Assessing Burn Severity Indexes for Fire Mapping using Multispectral Satellite Imagery**
 
+Project Assignment of the [Earth Observation](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=789438&polij_device_category=DESKTOP&__pj0=0&__pj1=196a64c2792be22b7b598fedd1518680) course at [Politecnico di Milano](https://www.polimi.it/).
 
-
-The main Google Earth Engine source code is avaiable at this [link](https://code.earthengine.google.com/65bc6c647f8e190d937a00684d3d32ad)
+The main Google Earth Engine source code is avaiable at this [link](https://code.earthengine.google.com/65bc6c647f8e190d937a00684d3d32ad).
 
 ### Abstract
 The complete paper can be found in the [report](https://github.com/carls31/eo-fire-mapping/blob/main/EO_report_10601118.pdf) file.
