@@ -17,3 +17,5 @@ detection. However, caution is advised when comparing severity patterns at diffe
 enhances burn severity mapping by increasing availability and enabling finer-scale fire effect analysis. In the end, the accuracy
 assessment of the estimated burned area from Sentinel 2 was performed using the newly integrated QGIS plugin BAD (Burn Area
 Detector) as the ground truth.
+
+![What is this](gee_workflow.png)
