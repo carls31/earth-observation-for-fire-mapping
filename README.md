@@ -6,7 +6,7 @@ Project Assignment of the [Earth Observation](https://www11.ceda.polimi.it/sched
 The main Google Earth Engine source code is avaiable at this [link](https://code.earthengine.google.com/65bc6c647f8e190d937a00684d3d32ad).
 
 ### Abstract
-The complete paper can be found in the [report](https://github.com/carls31/eo-fire-mapping/blob/main/EO_report_10601118.pdf) file.
+The complete paper can be found in the [report](https://github.com/carls31/eo-fire-mapping/blob/main/report_10601118.pdf) file.
 
 Accurate burn severity assessment is crucial for understanding fire behavior, ecology, and post-fire management. While NASA
 Landsat satellites are commonly used, the newer European Space Agency Sentinel-2 satellites provide higher temporal and spatial
